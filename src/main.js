@@ -1,1 +1,1 @@
-alert('Atualizandooo');
+alert('Atualizandoo');
